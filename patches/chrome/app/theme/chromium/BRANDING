@@ -1,0 +1,10 @@
+COMPANY_FULLNAME=Odyssey RM
+COMPANY_SHORTNAME=Odyssey RM
+PRODUCT_FULLNAME=Chrome-Odyssey
+PRODUCT_SHORTNAME=Chrome-Odyssey
+PRODUCT_INSTALLER_FULLNAME=Chrome-Odyssey Installer
+PRODUCT_INSTALLER_SHORTNAME=Chrome-Odyssey Installer
+COPYRIGHT=Copyright @LASTCHANGE_YEAR@ The Chromium Authors. All rights reserved.
+MAC_BUNDLE_ID=com.odysseyrm.chrome-odyssey
+MAC_CREATOR_CODE=Cr24
+MAC_TEAM_ID=
